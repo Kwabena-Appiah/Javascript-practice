@@ -1,0 +1,76 @@
+body{
+    color: white;
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+main{
+    background: url(image1/background.jpg);
+    height: 410px;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    padding: 15px;
+    margin-top: 100px;
+    font-size: 56px;
+    letter-spacing: 15px;
+    margin-bottom: 5px;
+}
+h3{
+margin-top: 0;
+font-size: 25px;
+margin-bottom: 0;
+}
+.text{
+    margin-top: 0;
+    font-size: 18px;
+    }
+.start{
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+.searchword{
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+.filter{
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+.filter2{
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+input{
+    margin: 30px;
+    width: 550px;
+    height: 50px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 10px;
+}
+.fa-solid{
+    margin: 1px;
+    font-size: 25px;
+}
+
+section{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 10px;
+ margin : 80px;
+
+}
+
+.div3{
+    background :url(image1/divbackground.jpg)
+}
